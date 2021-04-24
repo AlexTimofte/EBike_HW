@@ -1,0 +1,16 @@
+_Init_UART: CODE, 1657 0 25
+___aldiv: CODE, 972 0 143
+_ISR: CODE, 1485 0 52
+_Init_ADC: CODE, 1627 0 30
+_main: CODE, 38 0 647
+_send_nr: CODE, 685 0 287
+___lmul: CODE, 1302 0 65
+__initialization: CODE, 21 0 13
+___lwdiv: CODE, 1367 0 64
+___lldiv: CODE, 1115 0 96
+_uart_send: CODE, 1690 0 8
+_nr: CODE, 1211 0 91
+___lwmod: CODE, 1431 0 54
+_Init_PIC: CODE, 1587 0 40
+_Citeste_ADC: CODE, 1537 0 50
+Total: 1665

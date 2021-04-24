@@ -1,1 +1,0 @@
- uart.d  uart.p1:  C:/Users/timof/Desktop/Achizitie_Semnale/cod\ pic16f886/uart.c C:/Users/timof/Desktop/Achizitie_Semnale/cod\ pic16f886/adc.h C:/Users/timof/Desktop/Achizitie_Semnale/cod\ pic16f886/include.h C:/Users/timof/Desktop/Achizitie_Semnale/cod\ pic16f886/uart.h

@@ -1,0 +1,1 @@
+ uart.d  uart.p1:  E:/Work/Git/EBike_HW/SignalAcquisition/SW/PIC16F886/uart.c E:/Work/Git/EBike_HW/SignalAcquisition/SW/PIC16F886/include.h E:/Work/Git/EBike_HW/SignalAcquisition/SW/PIC16F886/uart.h E:/Work/Git/EBike_HW/SignalAcquisition/SW/PIC16F886/adc.h
