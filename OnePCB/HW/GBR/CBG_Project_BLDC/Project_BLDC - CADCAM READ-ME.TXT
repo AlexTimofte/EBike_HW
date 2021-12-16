@@ -1,0 +1,194 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'Project_BLDC.pdsprj'.
+CADCAM generated at 10:21:45 PM on Sunday, July 11, 2021.
+
+File List
+---------
+Top Copper              : Project_BLDC - CADCAM Top Copper.GBR
+Bottom Copper           : Project_BLDC - CADCAM Bottom Copper.GBR
+Top Silk Screen         : Project_BLDC - CADCAM Top Silk Screen.GBR
+Bottom Silk Screen      : Project_BLDC - CADCAM Bottom Silk Screen.GBR
+Top Solder Resist       : Project_BLDC - CADCAM Top Solder Resist.GBR
+Bottom Solder Resist    : Project_BLDC - CADCAM Bottom Solder Resist.GBR
+Top SMT Paste           : Project_BLDC - CADCAM Top SMT Paste.GBR
+Bottom SMT Paste        : Project_BLDC - CADCAM Bottom SMT Paste.GBR
+Mechanical 1            : Project_BLDC - CADCAM Mechanical 1.GBR
+Top Assembly            : Project_BLDC - CADCAM Top Assembly.GBR
+Bottom Assembly         : Project_BLDC - CADCAM Bottom Assembly.GBR
+Drill, Plated, 1-16     : Project_BLDC - CADCAM Drill TOP-BOT Plated.GBR
+Netlist                 : Project_BLDC - CADCAM Netlist.IPC
+
+Photoplotter Setup
+------------------
+Format: X2, ASCII, 4.3, metric, absolute, eob=*, LZO
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer, I=Index
+
+D10	CIRCLE  D=0.762mm                                                         DRAW  Conductor
+D11	CIRCLE  D=0.508mm                                                         DRAW  Conductor
+D12	CIRCLE  D=0.635mm                                                         DRAW  Conductor
+D13	CIRCLE  D=1.016mm                                                         DRAW  Conductor
+D14	CIRCLE  D=0.254mm                                                         DRAW  Conductor
+D15	CIRCLE  D=0.381mm                                                         DRAW  Conductor
+D16	CIRCLE  D=1.016mm                                                         FLASH WasherPad
+D17	CIRCLE  D=1.016mm                                                         FLASH ViaPad
+D18	CIRCLE  D=0.762mm                                                         FLASH ViaPad
+D19	RECT    W=4.572mm             H=1.651mm                                   FLASH SMDPad,CuDef
+D70	SQUARE  S=1.651mm                                                         FLASH SMDPad,CuDef
+D71	CIRCLE  D=5.08mm                                                          FLASH ComponentPad
+D20	SQUARE  S=6.985mm                                                         FLASH SMDPad,CuDef
+D21	RECT    W=1.524mm             H=2.54mm                                    FLASH SMDPad,CuDef
+D22	RECT    W=0.635mm             H=0.889mm                                   FLASH SMDPad,CuDef
+D23	RECT    W=1.80339mm           H=1.143mm                                   FLASH SMDPad,CuDef
+D24	RECT    W=1.143mm             H=5.20699mm                                 FLASH SMDPad,CuDef
+D25	RECT    W=10.7442mm           H=9.5504mm                                  FLASH SMDPad,CuDef
+D26	RECT    W=3.81mm              H=6.858mm                                   FLASH SMDPad,CuDef
+D27	RECT    W=2.54mm              H=1.4732mm                                  FLASH SMDPad,CuDef
+D28	RECT    W=1.143mm             H=1.80339mm                                 FLASH SMDPad,CuDef
+D29	CIRCLE  D=6.35mm                                                          FLASH ComponentPad
+D72	RECT    W=0.635mm             H=2.032mm                                   FLASH SMDPad,CuDef
+D73	RECT    W=1.651mm             H=3.048mm                                   FLASH SMDPad,CuDef
+D30	RECT    W=0.889mm             H=0.635mm                                   FLASH SMDPad,CuDef
+D31	RECT    W=0.889mm             H=1.016mm                                   FLASH SMDPad,CuDef
+D32	RECT    W=1.016mm             H=0.889mm                                   FLASH SMDPad,CuDef
+D33	DIL     W=2.54mm              H=1.524mm             C=0.3048mm            FLASH ComponentPad
+D34	DIL     W=1.524mm             H=2.54mm              C=0.3048mm            FLASH ComponentPad
+D35	CIRCLE  D=6.35mm                                                          FLASH OtherPad,Unknown
+D36	CIRCLE  D=3.048mm                                                         FLASH ComponentPad
+D37	RECT    W=11.43mm             H=8.89mm                                    FLASH SMDPad,CuDef
+D38	RECT    W=2.032mm             H=3.81mm                                    FLASH SMDPad,CuDef
+D39	CIRCLE  D=0.2032mm                                                        DRAW  Profile
+D40	CIRCLE  D=1.27mm                                                          DRAW  Conductor
+D41	PPAD    W=1.80339mm           H=0.4064mm            I=0                   FLASH SMDPad,CuDef
+D42	RECT    W=1.016mm             H=1.524mm                                   FLASH SMDPad,CuDef
+D43	RECT    W=0.9398mm            H=1.4478mm                                  FLASH SMDPad,CuDef
+D44	SQUARE  S=2.1082mm                                                        FLASH SMDPad,CuDef
+D45	PPAD    W=1.68828mm           H=1.68828mm           I=1                   FLASH SMDPad,CuDef
+D46	RECT    W=1.4478mm            H=0.9398mm                                  FLASH SMDPad,CuDef
+D47	CIRCLE  D=0.2032mm                                                        DRAW  Material
+D48	CIRCLE  D=0.1016mm                                                        DRAW  Material
+D49	CIRCLE  D=0.2mm                                                           DRAW  Material
+D50	CIRCLE  D=0.508mm                                                         DRAW  Material
+D51	CIRCLE  D=0.1524mm                                                        DRAW  Material
+D52	CIRCLE  D=0.12mm                                                          DRAW  Material
+D53	CIRCLE  D=0.25mm                                                          DRAW  Material
+D54	CIRCLE  D=0.1mm                                                           DRAW  Material
+D55	CIRCLE  D=1.27mm                                                          FLASH Material
+D56	CIRCLE  D=1.016mm                                                         FLASH Material
+D57	PPAD    W=4.826mm             H=1.905mm             I=2                   FLASH Material
+D58	PPAD    W=1.905mm             H=1.905mm             I=3                   FLASH Material
+D59	CIRCLE  D=5.334mm                                                         FLASH Material
+D60	PPAD    W=7.23899mm           H=7.23899mm           I=4                   FLASH Material
+D61	PPAD    W=1.778mm             H=2.794mm             I=5                   FLASH Material
+D62	PPAD    W=0.889mm             H=1.143mm             I=6                   FLASH Material
+D63	PPAD    W=1.80339mm           H=1.143mm             I=7                   FLASH Material
+D64	PPAD    W=1.143mm             H=5.20699mm           I=8                   FLASH Material
+D65	PPAD    W=10.7442mm           H=9.5504mm            I=9                   FLASH Material
+D66	PPAD    W=4.064mm             H=7.112mm             I=10                  FLASH Material
+D67	PPAD    W=2.794mm             H=1.7272mm            I=11                  FLASH Material
+D68	PPAD    W=1.143mm             H=1.80339mm           I=12                  FLASH Material
+D69	CIRCLE  D=6.604mm                                                         FLASH Material
+D74	PPAD    W=0.889mm             H=2.286mm             I=13                  FLASH Material
+D75	PPAD    W=1.905mm             H=3.302mm             I=14                  FLASH Material
+D76	PPAD    W=1.143mm             H=0.889mm             I=15                  FLASH Material
+D77	PPAD    W=1.143mm             H=1.27mm              I=16                  FLASH Material
+D78	PPAD    W=1.27mm              H=1.143mm             I=17                  FLASH Material
+D79	PPAD    W=2.794mm             H=1.778mm             I=18                  FLASH Material
+D80	PPAD    W=1.778mm             H=2.794mm             I=19                  FLASH Material
+D81	CIRCLE  D=3.556mm                                                         FLASH Material
+D82	PPAD    W=11.684mm            H=9.144mm             I=20                  FLASH Material
+D83	PPAD    W=2.286mm             H=4.064mm             I=21                  FLASH Material
+D84	PPAD    W=1.80339mm           H=1.143mm             I=22                  FLASH Material
+D85	PPAD    W=7.23899mm           H=7.23899mm           I=23                  FLASH Material
+D86	PPAD    W=1.778mm             H=2.794mm             I=24                  FLASH Material
+D87	PPAD    W=1.143mm             H=1.80339mm           I=25                  FLASH Material
+D88	PPAD    W=1.80339mm           H=0.4064mm            I=0                   FLASH Material
+D89	PPAD    W=1.27mm              H=1.778mm             I=26                  FLASH Material
+D90	PPAD    W=0.9398mm            H=1.4478mm            I=27                  FLASH Material
+D91	PPAD    W=1.27mm              H=1.143mm             I=28                  FLASH Material
+D92	PPAD    W=2.1082mm            H=2.1082mm            I=29                  FLASH Material
+D93	PPAD    W=1.143mm             H=0.889mm             I=30                  FLASH Material
+D94	PPAD    W=1.68828mm           H=1.68828mm           I=31                  FLASH Material
+D95	PPAD    W=1.4478mm            H=0.9398mm            I=32                  FLASH Material
+D96	RECT    W=4.572mm             H=1.651mm                                   FLASH Material
+D97	SQUARE  S=1.651mm                                                         FLASH Material
+D98	SQUARE  S=6.985mm                                                         FLASH Material
+D99	RECT    W=1.524mm             H=2.54mm                                    FLASH Material
+D100	RECT    W=0.635mm             H=0.889mm                                   FLASH Material
+D101	RECT    W=1.80339mm           H=1.143mm                                   FLASH Material
+D102	RECT    W=1.143mm             H=5.20699mm                                 FLASH Material
+D103	RECT    W=10.7442mm           H=9.5504mm                                  FLASH Material
+D104	RECT    W=3.81mm              H=6.858mm                                   FLASH Material
+D105	RECT    W=2.54mm              H=1.4732mm                                  FLASH Material
+D106	RECT    W=1.143mm             H=1.80339mm                                 FLASH Material
+D107	RECT    W=0.635mm             H=2.032mm                                   FLASH Material
+D108	RECT    W=1.651mm             H=3.048mm                                   FLASH Material
+D109	RECT    W=0.889mm             H=0.635mm                                   FLASH Material
+D110	RECT    W=0.889mm             H=1.016mm                                   FLASH Material
+D111	RECT    W=1.016mm             H=0.889mm                                   FLASH Material
+D112	RECT    W=11.43mm             H=8.89mm                                    FLASH Material
+D113	RECT    W=2.032mm             H=3.81mm                                    FLASH Material
+D114	RECT    W=1.016mm             H=1.524mm                                   FLASH Material
+D115	RECT    W=0.9398mm            H=1.4478mm                                  FLASH Material
+D116	SQUARE  S=2.1082mm                                                        FLASH Material
+D117	PPAD    W=1.68828mm           H=1.68828mm           I=1                   FLASH Material
+D118	RECT    W=1.4478mm            H=0.9398mm                                  FLASH Material
+D119	CIRCLE  D=0.10541mm                                                       DRAW  Material
+D120	CIRCLE  D=0.06858mm                                                       DRAW  Material
+D121	CIRCLE  D=0.38904mm                                                       DRAW  Material
+D122	CIRCLE  D=0.09009mm                                                       DRAW  Material
+D123	CIRCLE  D=0.05mm                                                          DRAW  Material
+D124	CIRCLE  D=0.11625mm                                                       DRAW  Material
+D125	CIRCLE  D=0.42259mm                                                       DRAW  Material
+D126	CIRCLE  D=0.52493mm                                                       DRAW  Material
+D127	CIRCLE  D=0.11875mm                                                       DRAW  Material
+D128	CIRCLE  D=0.0775mm                                                        DRAW  Material
+D129	CIRCLE  D=0.05486mm                                                       DRAW  Material
+D130	CIRCLE  D=0.093mm                                                         DRAW  Material
+D131	CIRCLE  D=0.14478mm                                                       DRAW  Material
+D132	CIRCLE  D=0.13716mm                                                       DRAW  Material
+D133	CIRCLE  D=0.17145mm                                                       DRAW  Material
+D134	CIRCLE  D=0.05969mm                                                       DRAW  Material
+D135	CIRCLE  D=0.095mm                                                         DRAW  Material
+D136	CIRCLE  D=0.14099mm                                                       DRAW  Material
+D137	CIRCLE  D=0.10329mm                                                       DRAW  Material
+D138	CIRCLE  D=0.07747mm                                                       DRAW  Material
+D139	CIRCLE  D=0.07461mm                                                       DRAW  Material
+D140	CIRCLE  D=0.08653mm                                                       DRAW  Material
+D141	CIRCLE  D=0.16002mm                                                       DRAW  Material
+D142	CIRCLE  D=0.93133mm                                                       DRAW  Material
+D143	CIRCLE  D=0.41375mm                                                       DRAW  Material
+D144	CIRCLE  D=0.0673mm                                                        DRAW  Material
+D145	CIRCLE  D=0.35166mm                                                       DRAW  Material
+D146	CIRCLE  D=0.6223mm                                                        DRAW  Material
+D147	CIRCLE  D=0.46672mm                                                       DRAW  Material
+D148	CIRCLE  D=0.06641mm                                                       DRAW  Material
+D149	CIRCLE  D=0.285mm                                                         DRAW  Material
+D150	CIRCLE  D=0.21375mm                                                       DRAW  Material
+D151	CIRCLE  D=0.20833mm                                                       DRAW  Material
+D152	CIRCLE  D=0.10058mm                                                       DRAW  Material
+D153	CIRCLE  D=0.05071mm                                                       DRAW  Material
+D154	CIRCLE  D=0.23832mm                                                       DRAW  Material
+D155	CIRCLE  D=0.08875mm                                                       DRAW  Material
+D156	CIRCLE  D=0.381mm                                                         FLASH MechanicalDrill
+D157	CIRCLE  D=0.381mm                                                         FLASH ViaDrill
+D158	CIRCLE  D=2.032mm                                                         FLASH ComponentDrill
+D159	CIRCLE  D=3mm                                                             FLASH ComponentDrill
+D160	CIRCLE  D=1.524mm                                                         FLASH ComponentDrill
+D161	CIRCLE  D=1mm                                                             FLASH ComponentDrill
+D162	CIRCLE  D=4mm                                                             FLASH OtherDrill,Unknown
+D163	CIRCLE  D=1.143mm                                                         FLASH ComponentDrill
+
+Layer Stackup
+-------------
+Top Solder Resist        : 0.01016mm  Resist
+Top Copper               : 0.03556mm  Copper
+Core                     : 1.48336mm  FR4
+Bottom Copper            : 0.03556mm  Copper
+Bottom Solder Resist     : 0.01016mm  Resist
+
+
+[END OF FILE]
