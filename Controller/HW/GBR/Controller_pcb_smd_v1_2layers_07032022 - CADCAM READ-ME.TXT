@@ -1,0 +1,123 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'Controller_pcb_smd_v1_2layers_07032022.pdsprj'.
+CADCAM generated at 9:36:04 AM on Friday, March 25, 2022.
+
+File List
+---------
+Top Copper              : Controller_pcb_smd_v1_2layers_07032022 - CADCAM Top Copper.GBR
+Bottom Copper           : Controller_pcb_smd_v1_2layers_07032022 - CADCAM Bottom Copper.GBR
+Top Silk Screen         : Controller_pcb_smd_v1_2layers_07032022 - CADCAM Top Silk Screen.GBR
+Bottom Silk Screen      : Controller_pcb_smd_v1_2layers_07032022 - CADCAM Bottom Silk Screen.GBR
+Top Solder Resist       : Controller_pcb_smd_v1_2layers_07032022 - CADCAM Top Solder Resist.GBR
+Bottom Solder Resist    : Controller_pcb_smd_v1_2layers_07032022 - CADCAM Bottom Solder Resist.GBR
+Top SMT Paste           : Controller_pcb_smd_v1_2layers_07032022 - CADCAM Top SMT Paste.GBR
+Bottom SMT Paste        : Controller_pcb_smd_v1_2layers_07032022 - CADCAM Bottom SMT Paste.GBR
+Mechanical 1            : Controller_pcb_smd_v1_2layers_07032022 - CADCAM Mechanical 1.GBR
+Top Assembly            : Controller_pcb_smd_v1_2layers_07032022 - CADCAM Top Assembly.GBR
+Bottom Assembly         : Controller_pcb_smd_v1_2layers_07032022 - CADCAM Bottom Assembly.GBR
+Drill                   : Controller_pcb_smd_v1_2layers_07032022 - CADCAM Drill.DRL
+Netlist                 : Controller_pcb_smd_v1_2layers_07032022 - CADCAM Netlist.IPC
+
+Photoplotter Setup
+------------------
+Format: RS274X, ASCII, 4.3, metric, absolute, eob=*, LZO
+Bounds: -10.795mm -64.135mm 97.155mm -10.16mm
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer, I=Index
+
+D10	CIRCLE  D=0.254mm                                                         DRAW 
+D11	CIRCLE  D=0.762mm                                                         DRAW 
+D12	CIRCLE  D=0.762mm                                                         FLASH
+D13	DIL     W=2.54mm              H=1.524mm             C=0.305mm             FLASH
+D14	DIL     W=1.524mm             H=2.54mm              C=0.305mm             FLASH
+D15	CIRCLE  D=6.35mm                                                          FLASH
+D16	SQUARE  S=1.778mm                                                         FLASH
+D17	RECT    W=1.041mm             H=1.397mm                                   FLASH
+D18	RECT    W=2.743mm             H=0.991mm                                   FLASH
+D19	RECT    W=6.147mm             H=5.563mm                                   FLASH
+D70	RECT    W=1.803mm             H=1.143mm                                   FLASH
+D71	RECT    W=1.143mm             H=1.803mm                                   FLASH
+D20	RECT    W=5.588mm             H=2.032mm                                   FLASH
+D21	RECT    W=1.016mm             H=1.524mm                                   FLASH
+D22	RECT    W=1.524mm             H=0.254mm                                   FLASH
+D23	RECT    W=0.254mm             H=1.524mm                                   FLASH
+D24	RECT    W=0.305mm             H=1.499mm                                   FLASH
+D25	RECT    W=1.499mm             H=0.305mm                                   FLASH
+D26	CIRCLE  D=0.229mm                                                         FLASH
+D27	SQUARE  S=2.032mm                                                         FLASH
+D28	CIRCLE  D=0.203mm                                                         DRAW 
+D29	CIRCLE  D=0.635mm                                                         DRAW 
+D72	CIRCLE  D=0.508mm                                                         DRAW 
+D73	CIRCLE  D=0.152mm                                                         DRAW 
+D30	CIRCLE  D=0.2mm                                                           DRAW 
+D31	CIRCLE  D=0.25mm                                                          DRAW 
+D32	CIRCLE  D=0.6mm                                                           DRAW 
+D33	CIRCLE  D=0.051mm                                                         DRAW 
+D34	CIRCLE  D=1.016mm                                                         FLASH
+D35	PPAD    W=2.794mm             H=1.778mm             I=0                   FLASH
+D36	PPAD    W=1.778mm             H=2.794mm             I=1                   FLASH
+D37	CIRCLE  D=6.604mm                                                         FLASH
+D38	PPAD    W=2.032mm             H=2.032mm             I=2                   FLASH
+D39	PPAD    W=1.041mm             H=1.397mm             I=3                   FLASH
+D40	PPAD    W=2.743mm             H=0.991mm             I=4                   FLASH
+D41	PPAD    W=6.147mm             H=5.563mm             I=5                   FLASH
+D42	PPAD    W=1.803mm             H=1.143mm             I=6                   FLASH
+D43	PPAD    W=1.143mm             H=1.803mm             I=7                   FLASH
+D44	PPAD    W=5.842mm             H=2.286mm             I=8                   FLASH
+D45	PPAD    W=1.27mm              H=1.778mm             I=9                   FLASH
+D46	PPAD    W=1.524mm             H=0.254mm             I=10                  FLASH
+D47	PPAD    W=0.254mm             H=1.524mm             I=11                  FLASH
+D48	PPAD    W=0.305mm             H=1.499mm             I=12                  FLASH
+D49	PPAD    W=1.499mm             H=0.305mm             I=13                  FLASH
+D50	PPAD    W=2.286mm             H=2.286mm             I=14                  FLASH
+D51	PPAD    W=1.803mm             H=1.143mm             I=15                  FLASH
+D52	CIRCLE  D=1.016mm                                                         DRAW 
+D53	CIRCLE  D=0.072mm                                                         DRAW 
+D54	CIRCLE  D=0.159mm                                                         DRAW 
+D55	CIRCLE  D=0.172mm                                                         DRAW 
+D56	CIRCLE  D=0.054mm                                                         DRAW 
+D57	CIRCLE  D=0.711mm                                                         DRAW 
+D58	CIRCLE  D=0.311mm                                                         DRAW 
+D59	CIRCLE  D=0.05mm                                                          DRAW 
+D60	CIRCLE  D=0.559mm                                                         DRAW 
+D61	CIRCLE  D=0.075mm                                                         DRAW 
+D62	CIRCLE  D=0.892mm                                                         DRAW 
+D63	CIRCLE  D=0.287mm                                                         DRAW 
+D64	CIRCLE  D=0.721mm                                                         DRAW 
+D65	CIRCLE  D=0.107mm                                                         DRAW 
+D66	CIRCLE  D=0.11mm                                                          DRAW 
+D67	CIRCLE  D=1.829mm                                                         DRAW 
+D68	CIRCLE  D=0.356mm                                                         DRAW 
+D69	CIRCLE  D=0.61mm                                                          DRAW 
+D74	CIRCLE  D=0.103mm                                                         DRAW 
+D75	CIRCLE  D=0.229mm                                                         DRAW 
+D76	CIRCLE  D=0.548mm                                                         DRAW 
+D77	CIRCLE  D=0.127mm                                                         DRAW 
+D78	CIRCLE  D=0.813mm                                                         DRAW 
+D79	CIRCLE  D=0.219mm                                                         DRAW 
+D80	CIRCLE  D=0.064mm                                                         DRAW 
+
+NC Drill Setup
+--------------
+Format: Excellon, ASCII, 4.3, metric, absolute, eob=<CR><LF>, no zero suppression.
+Notes:  Tool sizes are diameters. Layer sets are in brackets - 0=TOP, 15=BOTTOM, 1-14=INNER.
+
+T01	0.381mm (0-15) Plated
+T02	1mm (0-15) Plated
+T03	4mm (0-15) Plated
+T04	0.762mm (0-15) Plated
+T05	1.016mm (0-15) Plated
+
+Layer Stackup
+-------------
+Top Solder Resist        : 0.01mm     Resist
+Top Copper               : 0.036mm    Copper
+Core                     : 1.483mm    FR4
+Bottom Copper            : 0.036mm    Copper
+Bottom Solder Resist     : 0.01mm     Resist
+
+
+[END OF FILE]
