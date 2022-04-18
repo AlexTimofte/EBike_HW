@@ -4,7 +4,7 @@ LABCENTER PROTEUS TOOL INFORMATION FILE
 In case of difficulty, please e-mail support@labcenter.co.uk
 
 Tool set up for Proteus layout 'Controller_pcb_smd_v1_2layers_07032022.pdsprj'.
-CADCAM generated at 9:36:04 AM on Friday, March 25, 2022.
+CADCAM generated at 4:30:17 PM on Sunday, April 17, 2022.
 
 File List
 ---------
@@ -74,31 +74,33 @@ D48	PPAD    W=0.305mm             H=1.499mm             I=12                  FL
 D49	PPAD    W=1.499mm             H=0.305mm             I=13                  FLASH
 D50	PPAD    W=2.286mm             H=2.286mm             I=14                  FLASH
 D51	PPAD    W=1.803mm             H=1.143mm             I=15                  FLASH
-D52	CIRCLE  D=1.016mm                                                         DRAW 
-D53	CIRCLE  D=0.072mm                                                         DRAW 
-D54	CIRCLE  D=0.159mm                                                         DRAW 
-D55	CIRCLE  D=0.172mm                                                         DRAW 
-D56	CIRCLE  D=0.054mm                                                         DRAW 
-D57	CIRCLE  D=0.711mm                                                         DRAW 
-D58	CIRCLE  D=0.311mm                                                         DRAW 
-D59	CIRCLE  D=0.05mm                                                          DRAW 
-D60	CIRCLE  D=0.559mm                                                         DRAW 
-D61	CIRCLE  D=0.075mm                                                         DRAW 
-D62	CIRCLE  D=0.892mm                                                         DRAW 
-D63	CIRCLE  D=0.287mm                                                         DRAW 
-D64	CIRCLE  D=0.721mm                                                         DRAW 
-D65	CIRCLE  D=0.107mm                                                         DRAW 
-D66	CIRCLE  D=0.11mm                                                          DRAW 
-D67	CIRCLE  D=1.829mm                                                         DRAW 
-D68	CIRCLE  D=0.356mm                                                         DRAW 
-D69	CIRCLE  D=0.61mm                                                          DRAW 
-D74	CIRCLE  D=0.103mm                                                         DRAW 
-D75	CIRCLE  D=0.229mm                                                         DRAW 
-D76	CIRCLE  D=0.548mm                                                         DRAW 
-D77	CIRCLE  D=0.127mm                                                         DRAW 
-D78	CIRCLE  D=0.813mm                                                         DRAW 
-D79	CIRCLE  D=0.219mm                                                         DRAW 
-D80	CIRCLE  D=0.064mm                                                         DRAW 
+D52	PPAD    W=1.143mm             H=1.803mm             I=16                  FLASH
+D53	CIRCLE  D=1.016mm                                                         DRAW 
+D54	CIRCLE  D=0.072mm                                                         DRAW 
+D55	CIRCLE  D=0.159mm                                                         DRAW 
+D56	CIRCLE  D=0.172mm                                                         DRAW 
+D57	CIRCLE  D=0.054mm                                                         DRAW 
+D58	CIRCLE  D=0.711mm                                                         DRAW 
+D59	CIRCLE  D=0.311mm                                                         DRAW 
+D60	CIRCLE  D=0.05mm                                                          DRAW 
+D61	CIRCLE  D=0.559mm                                                         DRAW 
+D62	CIRCLE  D=0.075mm                                                         DRAW 
+D63	CIRCLE  D=0.892mm                                                         DRAW 
+D64	CIRCLE  D=0.287mm                                                         DRAW 
+D65	CIRCLE  D=0.721mm                                                         DRAW 
+D66	CIRCLE  D=0.107mm                                                         DRAW 
+D67	CIRCLE  D=0.11mm                                                          DRAW 
+D68	CIRCLE  D=1.829mm                                                         DRAW 
+D69	CIRCLE  D=0.356mm                                                         DRAW 
+D74	CIRCLE  D=0.61mm                                                          DRAW 
+D75	CIRCLE  D=0.103mm                                                         DRAW 
+D76	CIRCLE  D=0.229mm                                                         DRAW 
+D77	CIRCLE  D=0.548mm                                                         DRAW 
+D78	CIRCLE  D=0.127mm                                                         DRAW 
+D79	CIRCLE  D=0.813mm                                                         DRAW 
+D80	CIRCLE  D=0.219mm                                                         DRAW 
+D81	CIRCLE  D=0.086mm                                                         DRAW 
+D82	CIRCLE  D=0.064mm                                                         DRAW 
 
 NC Drill Setup
 --------------

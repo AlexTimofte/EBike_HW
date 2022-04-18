@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activewindow="1">
+  <PLACEMENT>2c00000002000000030000000083ffff0083ffffffffffffffffffff10000000faffffffbf0300003f030000</PLACEMENT>
+  <WINDOW type="default" module="ISIS">
+   <editor metric="0" gridmajor="25400000" mode="00000000" zoom="0" scale="59" flipped="0" gridminor="508000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="215254">
+    <world y1="-19050000" x1="-26670000" y2="19050000" x2="26670000"/>
+    <centre x="0" y="0"/>
+    <origin x="0" y="0"/>
+   </editor>
+  </WINDOW>
+  <WINDOW type="default" module="ARES">
+   <editor metric="0" gridmajor="25400" mode="00000028" zoom="-1" scale="15777" flipped="0" gridminor="12700" gridmode="32" snapidx="1" snap="12700" xcursor="16" orgmode="0" snaprange="6350">
+    <world y1="-12700000" x1="-15240000" y2="12700000" x2="15240000"/>
+    <centre x="3289219" y="-1917619"/>
+    <origin x="0" y="0"/>
+   </editor>
+  </WINDOW>
+  <WINDOW type="default" module="DXP"/>
+  <WINDOW type="VIEW3D" module="VIEW3D">
+   <camera>
+    <position x="4318000" y="-8782509" z="5067759"/>
+    <focus x="4318000" y="-3714750" z="0"/>
+    <up x="0" y="707106" z="707106"/>
+   </camera>
+  </WINDOW>
+ </FRAME>
+ <MODULE name="ARES">
+  <editor metric="0" gridmajor="25400" mode="00000028" zoom="-1" scale="15777" flipped="0" gridminor="12700" gridmode="32" snapidx="1" snap="12700" xcursor="16" orgmode="0" snaprange="6350">
+   <world y1="-12700000" x1="-15240000" y2="12700000" x2="15240000"/>
+   <centre x="3289219" y="-1917619"/>
+   <origin x="0" y="0"/>
+  </editor>
+ </MODULE>
+ <MODULE name="ISIS">
+  <editor metric="0" gridmajor="25400000" mode="00000000" zoom="0" scale="59" flipped="0" gridminor="508000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="215254">
+   <world y1="-19050000" x1="-26670000" y2="19050000" x2="26670000"/>
+   <centre x="0" y="0"/>
+   <origin x="0" y="0"/>
+  </editor>
+ </MODULE>
+ <MODULE name="VSMDEBUG">
+  <PWI/>
+ </MODULE>
+</WORKSPACE>
